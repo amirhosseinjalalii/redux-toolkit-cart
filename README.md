@@ -1,6 +1,7 @@
 # Redux Toolkit
 
 ![My Remote Image](https://hybridheroes.de/blog/content/images/2022/03/redux-toolkit-1400.jpg)
+![My Remote Image](https://i.postimg.cc/G3kPzBWK/Screenshot-2022-10-27-at-22-38-22.png)
 
 #### React Course
 
